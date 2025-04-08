@@ -1,4 +1,3 @@
-
 ## 🚀 Hatch Hubとは？
 
 Hatch Hub は、ECサイト開発、データ分析、業務効率化ツールの開発を専門とするデジタルソリューションプロバイダーです。Shopify、WooCommerce、Google Analytics 4 (GA4)、BigQuery などの最新技術を活用し、クライアントのビジネス成長を支援します。
