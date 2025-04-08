@@ -1,4 +1,3 @@
-# Hatch Hub Portfolio
 
 ## 🚀 Hatch Hubとは？
 
