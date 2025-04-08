@@ -1,33 +1,84 @@
+# Hatch Hub Portfolio
 
+## 🚀 Hatch Hubとは？
 
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
--->
+Hatch Hub は、ECサイト開発、データ分析、業務効率化ツールの開発を専門とするデジタルソリューションプロバイダーです。Shopify、WooCommerce、Google Analytics 4 (GA4)、BigQuery などの最新技術を活用し、クライアントのビジネス成長を支援します。
 
-## Step 2: Configure your site
+## 💡 提供するサービス
 
-_You turned on GitHub Pages! :tada:_
+### ✅ ECサイト開発 & カスタマイズ
 
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
+🔹 Shopify / WooCommerce を活用したオンラインストア構築
 
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
+🔹 テーマカスタマイズ、機能追加、アプリ連携
 
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
+🔹 パフォーマンス最適化（速度改善、SEO対策）
 
-### :keyboard: Activity: Configure your site
+### ✅ データ分析 & ビジネスインサイト
 
-1. Browse to the `_config.yml` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
-   ```yml
-   theme: minima
-   ```
-1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
-1. Commit your changes.
-1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+🔹 GA4 & BigQuery を活用したデータ分析
 
+🔹 ECサイトの売上分析、ユーザー行動分析
 
+🔹 データドリブンな意思決定支援
+
+### ✅ 業務効率化 & 自動化ツール開発
+
+🔹 Python / Node.js による業務自動化
+
+🔹 カスタムAPI開発（データ連携、バックエンド処理）
+
+🔹 Google Apps Script（GAS）を活用した業務効率化
+
+---
+
+## 🛠 主要スキル
+
+### 🖥 開発技術
+
+🔹 フロントエンド: JavaScript, Next.js, React
+
+🔹 バックエンド: Python, Node.js, Django
+
+🔹 ECプラットフォーム: Shopify, WooCommerce
+
+🔹 データ分析: Google Analytics 4 (GA4), BigQuery
+
+### ⚙️ ツール & インフラ
+
+🔹 AWS, GCP, Firebase
+
+🔹 Google Tag Manager (GTM)
+
+🔹 SQL, NoSQL
+
+---
+
+## 📌 実績（Projects）
+
+### 💡 プロジェクト A - Shopify ストア構築 & 最適化
+
+Shopify ストアのカスタムテーマ開発
+GA4 を活用した売上分析とデータ可視化
+SEO対策 & ページ読み込み速度改善
+
+### 💡 プロジェクト B - WooCommerce + Python API 連携
+
+WooCommerce ストアと在庫管理システムの統合
+自動レポート生成（GA4 + BigQuery）
+Python によるデータ自動同期スクリプト開発
+
+### 💡 プロジェクト C - 業務効率化ツール開発
+
+Google Apps Script（GAS）を使った自動化ツール
+Shopify / WooCommerce とのデータ連携アプリ開発
+
+---
+
+## 📞 お問い合わせ
+
+📩 **Email**: hatchhub@elan-holdings.com
+
+🌐 **Website** (予定): [サイトリンク]
+
+📖 **LinkedIn**: [[プロフィールページ](https://www.linkedin.com/in/daisuke-hagiwara-7968561b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
