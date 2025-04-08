@@ -1,54 +1,84 @@
-<header>
+# Hatch Hub Portfolio
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+## 🚀 Hatch Hubとは？
 
-# GitHub Pages
+Hatch Hub は、ECサイト開発、データ分析、業務効率化ツールの開発を専門とするデジタルソリューションプロバイダーです。Shopify、WooCommerce、Google Analytics 4 (GA4)、BigQuery などの最新技術を活用し、クライアントのビジネス成長を支援します。
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+## 💡 提供するサービス
 
-</header>
+### ✅ ECサイト開発 & カスタマイズ
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+🔹 Shopify / WooCommerce を活用したオンラインストア構築
 
-## Step 1: Enable GitHub Pages
+🔹 テーマカスタマイズ、機能追加、アプリ連携
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+🔹 パフォーマンス最適化（速度改善、SEO対策）
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+### ✅ データ分析 & ビジネスインサイト
 
-### :keyboard: Activity: Enable GitHub Pages
+🔹 GA4 & BigQuery を活用したデータ分析
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+🔹 ECサイトの売上分析、ユーザー行動分析
 
-<footer>
+🔹 データドリブンな意思決定支援
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+### ✅ 業務効率化 & 自動化ツール開発
+
+🔹 Python / Node.js による業務自動化
+
+🔹 カスタムAPI開発（データ連携、バックエンド処理）
+
+🔹 Google Apps Script（GAS）を活用した業務効率化
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 🛠 主要スキル
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+### 🖥 開発技術
 
-</footer>
+🔹 フロントエンド: JavaScript, Next.js, React
+
+🔹 バックエンド: Python, Node.js, Django
+
+🔹 ECプラットフォーム: Shopify, WooCommerce
+
+🔹 データ分析: Google Analytics 4 (GA4), BigQuery
+
+### ⚙️ ツール & インフラ
+
+🔹 AWS, GCP, Firebase
+
+🔹 Google Tag Manager (GTM)
+
+🔹 SQL, NoSQL
+
+---
+
+## 📌 実績（Projects）
+
+### 💡 プロジェクト A - Shopify ストア構築 & 最適化
+
+Shopify ストアのカスタムテーマ開発
+GA4 を活用した売上分析とデータ可視化
+SEO対策 & ページ読み込み速度改善
+
+### 💡 プロジェクト B - WooCommerce + Python API 連携
+
+WooCommerce ストアと在庫管理システムの統合
+自動レポート生成（GA4 + BigQuery）
+Python によるデータ自動同期スクリプト開発
+
+### 💡 プロジェクト C - 業務効率化ツール開発
+
+Google Apps Script（GAS）を使った自動化ツール
+Shopify / WooCommerce とのデータ連携アプリ開発
+
+---
+
+## 📞 お問い合わせ
+
+📩 **Email**: hatchhub@elan-holdings.com
+
+🌐 **Website** (予定): [サイトリンク]
+
+📖 **LinkedIn**: [[プロフィールページ](https://www.linkedin.com/in/daisuke-hagiwara-7968561b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
